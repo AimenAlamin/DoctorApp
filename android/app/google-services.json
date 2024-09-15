@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328159436244",
+    "project_id": "doc-book-43608",
+    "storage_bucket": "doc-book-43608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328159436244:android:e7c88ef4b24553309a4a41",
+        "android_client_info": {
+          "package_name": "com.example.doctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1-MiSIBdZsu7bq6ogWiTX-1_X5QEoe3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
